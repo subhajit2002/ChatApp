@@ -29,6 +29,6 @@ npm install
 bash
 node index.js
 
-4.Open your web browser and go to http://localhost:3000.
+4.Open your web browser and go to http://localhost:8000.
 
 5.Enter a username and start chatting!
