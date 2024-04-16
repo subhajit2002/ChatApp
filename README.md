@@ -32,3 +32,4 @@ node index.js
 4.Open your web browser and go to http://localhost:8000.
 
 5.Enter a username and start chatting!
+![Screenshot 2024-04-15 230849](https://github.com/subhajit2002/ChatApp/assets/113613387/2924d40e-e571-4dcd-b3ef-9616ff6f9c6c)
